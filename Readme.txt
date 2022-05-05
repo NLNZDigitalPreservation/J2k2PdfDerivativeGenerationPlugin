@@ -8,6 +8,10 @@ Description	: The purpose of the plugin is to generate a
 Author		: Mathachan Kulathinal
 Date		: 15.Sep.2015
 
+=================================================================
+This plugins is meant to be used in ExLibris Rosetta digital preservation system. It can be used in Transformation profile. Parameters of the plugin can be edited in command exposed in the Transformation Profile Details.
+
+=================================================================
 
 Replace all `<path>` to real software path in `src/main/bin/J2k2PdfDerivativeGeneration.sh` (Line 28, 32, 34)
 
